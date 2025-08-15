@@ -1,0 +1,15 @@
+{
+  "title": "Quest for the Frozen Flame",
+  "id": "quest-for-the-frozen-flame",
+  "system": "pf2e",
+  "background": "pathfinder-2e-quest-for-the-frozen-flame-adventure-path-cover-2538118631.jpg",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "6.12.4",
+  "lastPlayed": "Fri Aug 15 2025 23:07:54 GMT+0400 (Самарское стандартное время)",
+  "playtime": 23581
+}
